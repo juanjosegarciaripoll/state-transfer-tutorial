@@ -1,0 +1,5 @@
+font.family: serif
+font.serif: Times New Roman
+mathtext.fontset: cm
+font.size: 14
+axes.labelsize: 20
